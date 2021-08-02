@@ -1,4 +1,4 @@
-# SmallSampleLearning
+# Few shot learning
 
 ## papers
 ### Learning to Learn: Model Regression Networks for Easy Small Sample Learning
